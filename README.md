@@ -97,9 +97,8 @@ if __name__ == "__main__":
 衡量的是 模型预测出的关键词中，有多少是真正正确的关键词。它关注的是 预测结果的质量。
 
 📌 公式
-$$
-\text{Precision} = \frac{TP}{TP + FP}
-$$
+
+$$\text{Precision} = \frac{TP}{TP + FP}$$
 
 其中：
 
@@ -112,10 +111,8 @@ $$
 
 📌 公式
 
+$$\text{Recall} = \frac{TP}{TP + FN}$$
 
-$$
-\text{Recall} = \frac{TP}{TP + FN}
-$$
 其中：
 
 - TP（True Positives）：正确预测的关键词。
@@ -126,9 +123,8 @@ $$
 是 Precision 和 Recall 的调和平均数，用于综合评估模型的表现。
 
 📌 公式
-$$
-\text{F1-score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-$$
+
+$$\text{F1-score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$$
 
 
 ### **3. Inspec 测试集介绍**
