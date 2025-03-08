@@ -1,0 +1,104 @@
+[Doc ID=2150]
+  Predicted: ['secur system', 'industri build', 'consolid bankruptci', 'data center', 'redund power suppli', 'telecommun data technolog', 'air condit']
+  True Keyphrases: {'abb', 'secur system', 'build manag', 'project manag', 'engin manag', 'mission-crit facil', 'build infrastructur', 'redund air condit', 'data center', 'commiss', 'instal', 'redund power suppli'}
+  Precision=0.57, Recall=0.33, F1=0.42
+
+[Doc ID=393]
+  Predicted: ['arrythmia', 'simul perturb stochast approxim', 't-wave altern', 'drug effect', 'distort measur', 'min-max criteri', 'qr morpholog chang', 'smooth approxim', 'cluster analysi', 'ecg analysi', 'comput complex', 'ventricular activ', 'random procedur', 'outlier sensit', 'correl method', 'late potenti analysi', 'spsa method', 'vector quantiz', 'experi comparison', 'nonsmooth optim problem']
+  True Keyphrases: {'simultan perturb stochast approxim method', 'class-distortion-measur', 'random procedur', 'distort measur', 'ecg signal compress', 'correl method', 'electrodiagnost', 'nonsmooth optim problem', 'cluster analysi', 'ecg cycl'}
+  Precision=0.25, Recall=0.50, F1=0.33
+
+[Doc ID=315]
+  Predicted: ['inform servic', 'usag trend', 'internet impact', 'longitudin research', 'public librari', 'plan polici develop', 'usag choic', 'deci criteria', 'librari internet compet', 'random digit dial', 'consum market', 'market segment', 'resourc access']
+  True Keyphrases: {'nation random digit dial telephon survey', 'internet', 'longitudin research', 'public librari', 'deci criteria', 'baselin data', 'consum model', 'american adult market'}
+  Precision=0.46, Recall=0.75, F1=0.57
+
+[Doc ID=2154]
+  Predicted: ['humanlik capabl', 'unplan stop', 'oper condit', 'semi-automat measur', 'global market', 'reliabl-cent mainten', 'rcm', 's4-famili control', 'troubl-shoot', 'schedul mainten', 'emb checklist', 'refer data', 'critic variabl', 'abb robot', 'robot condit monitor', 'improv product', 'neg trend', 'potenti breakdown', 'physic check-up', 'process know-how', 'optimiz/sup it']
+  True Keyphrases: {'s4-famili control', 'abb robot', 'condit monitor', 'optimize/sup it/ robot condit monitor tool', 'semi-automat measur', 'mainten schedul', 'reliability-c mainten'}
+  Precision=0.19, Recall=0.57, F1=0.29
+
+[Doc ID=256]
+  Predicted: ['debug web applic', 'right tool', 'save time', 'debug tool', 'web develop', 'program practic', 'track bug']
+  True Keyphrases: {'web applic debug tool', 'program'}
+  Precision=0.29, Recall=1.00, F1=0.44
+
+[Doc ID=2186]
+  Predicted: ['structur direct agent', 'a priori inform', 'mont carlo-lik design protocol', 'materi function', 'chemic composit', 'high throughput', 'multi-round protocol', 'structur-direct librari', 'model', 'templat zeolit synth', 'zeolit synth']
+  True Keyphrases: {'a priori inform', 'mont carlo-lik design protocol', 'phase-depend random gaussian variabl', 'combinatori method', 'multi-round protocol', 'figur of merit', 'reflect boundari condit', 'random energi model', 'metropolis-typ method', 'catalyt select', 'high throughput strategi', 'structur direct agent', 'templat zeolit synthesi', 'materi function', 'voronoi diagram', 'ligand librari', 'small molecul design', 'organo-c templat molecul', 'catalyt activ', 'chemic composit', 'materi discoveri'}
+  Precision=0.91, Recall=0.48, F1=0.62
+
+[Doc ID=3]
+  Predicted: ['credit facil', 'nuv commun', 'cash rai', 'stay power', 'fund', 'telecom market']
+  True Keyphrases: {'investor', 'competit carrier market', 'telecom', 'nuvox commun'}
+  Precision=0.17, Recall=0.25, F1=0.20
+
+[Doc ID=2095]
+  Predicted: ['loss system coordin', 'unbound solut', 'canard explo', 'limit cycl', 'enzyme-catali reaction', 'dynam system', 'maximum enzym activ', 'satur kinet', 'ordinari differenti equat', 'global-stabl steady-st', 'larg amplitud oscil', 'fals bifurc', 'attract set', 'saddl connect', 'biochem system']
+  True Keyphrases: {'enzyme-medi reaction', 'nonlinear depend', 'stabl limit cycl', 'metabolit concentr', 'enzymat reaction', 'satur kinet', 'bifurc', 'ordinari differenti equat', 'saddl connect', 'biochem system'}
+  Precision=0.40, Recall=0.60, F1=0.48
+
+[Doc ID=37]
+  Predicted: ['rise time', 'stabl margin', 'optim control theori', 'frequenc-domain respon', 'overshoot', 'h infin pid control', 'reson peak', 'nomin stabl process', 'suboptim pid control', 'time delay', 'maclaurin pid control', 'process control system', 'time-domain respon', 'h 2 pid control', 'pid control']
+  True Keyphrases: {'rise time', 'proportional-integr deriv control', 'suboptim control', 'frequency-domain respon', 'overshoot', 'optim control', 'reson peak', 'nomin stabl process', 'h/sub 2/ pid control', 'maclaurin pid control', 'stabil margin', 'process control system', 'time-domain respon', 'h/sub infin / pid control'}
+  Precision=0.60, Recall=0.64, F1=0.62
+
+[Doc ID=196]
+  Predicted: ['emerg rule', 'abstract rule', 'new symbol set', 'unseen grammar', 'weight adapt', 'network learn', 'gener abstract structur', 'symbol knowledg', 'abstract repres', 'learn algorithm', 'evolut psycholog', 'state-spac analysi', 'hierarchi structur', 'associat network', 'context sensitiv', 'intern repres', 'human linguist theori', 'transfer knowledg', 'symbol set', 'finit-st machin', 'neural network', 'state variabl']
+  True Keyphrases: {'associationist learn', 'learn', 'abstract rule', 'cognit neurosci', 'neural network', 'associationist neural network', 'state-spac', 'symbol knowledg'}
+  Precision=0.27, Recall=0.75, F1=0.40
+
+[Doc ID=2144]
+  Predicted: ['privaci polici', 'dotcom failur', 'commerc concern', 'fail compani', 'person data', 'privaci peril', 'custom list']
+  True Keyphrases: {'privaci polici', 'custom list', 'disclosur', 'privaci abu'}
+  Precision=0.29, Recall=0.50, F1=0.36
+
+[Doc ID=268]
+  Predicted: ['structur charact', 'method correl anali', 'region interest', 'conform space', 'molecul conform', 'coordin subset', 'protein fold trajectori', 'correl matrix', 'complex molecul']
+  True Keyphrases: {'region of interest', 'conform space', 'multidimens structur characterist', 'molecular coordin', 'multipl correl analysi', 'protein fold trajectori', 'correl matrix', 'complex molecul', 'molecular conform'}
+  Precision=0.56, Recall=0.56, F1=0.56
+
+[Doc ID=306]
+  Predicted: ['extern measur equip', 'compar keyboard joystick input', 'statist process method', 'estim keyboard delay time', 'keyboard model', 'microsecond level preci', 'psycholog experi', 'keyboard respon delay', 'joystick midi termin', 'averag keyboard delay', 'conveni accur method', 'keyboard scan interv time', 'independ tim function']
+  True Keyphrases: {'pc keyboard', 'joystick input', 'pc clock preci', 'keyboard respon delay measur', 'keyboard scan interv time', 'check', 'model chang', 'independ time function', 'averag keyboard delay time', 'midi termin', 'keyboard input', 'psycholog experi', 'sound board', 'statist data process'}
+  Precision=0.46, Recall=0.43, F1=0.44
+
+[Doc ID=38]
+  Predicted: ['draw process', 'p&id standard', 'confu inform', 'process work', 'instrument symbol', 'isa-5.1', 'concept standard', 'symbol standard', 'question standard', 'isa-s5.1', 'process control', 'interconnect process equip', 'develop use']
+  True Keyphrases: {'p&id standard', 'isa-5.1', 'isa standard', 'princip document', 'process control'}
+  Precision=0.23, Recall=0.60, F1=0.33
+
+[Doc ID=405]
+  Predicted: ['posit exampl', 'horn-clau descript', 'induct logic program', 'spat knowledg', 'motion orient navig', 'speaker-rel absolut', 'refer system', 'background knowledg', 'learn spat relat']
+  True Keyphrases: {'spatial relat learn', 'induct logic program system', 'function-fr horn-clau descript', 'spatial relat'}
+  Precision=0.22, Recall=0.50, F1=0.31
+
+[Doc ID=1962]
+  Predicted: ['bagsik oscil', 'determin process', 'analysi', 'complex number', 'statist mechan appa', 'incorrect bank data', 'error', 'piotrowski sladkowski']
+  True Keyphrases: {'bagsik oscil', 'determinist process', 'game theori', 'statist mechan apparatu', 'noncomplex number', 'incorrect bank data'}
+  Precision=0.50, Recall=0.67, F1=0.57
+
+[Doc ID=316]
+  Predicted: ['theoret fract distribut', 'convolut model', 'author paper', 'histori law', 'discr score', 'fract frequenc distribut', 'rao 1995', 'dual lotka law', 'lotka law', 'practic dataset']
+  True Keyphrases: {'irregular fraction frequenc distribut', 'dual lotka law', 'convolut model', 'discret score'}
+  Precision=0.30, Recall=0.75, F1=0.43
+
+[Doc ID=2136]
+  Predicted: ['optim method', 'complex estim', 'problem optim', 'network reconstruct', 'sequenc determin', 'dimen problem', 'throughput increa', 'reconstruct cost', 'finit set']
+  True Keyphrases: {'complex', 'network reconstruct', 'best solut', 'optim', 'finit set'}
+  Precision=0.56, Recall=1.00, F1=0.71
+
+[Doc ID=380]
+  Predicted: ['quantit speed control', 'srm drive', 'track respon', 'disturb cancel robust control', 'two-degre-of-freedom structur', 'oper condit', 'model-follow track error', 'system paramet', 'fuzzi adapt inver model', 'feedback control', 'inver plant model', 'speed dynam respon', 'fuzzi control scheme', 'nonlin dynam behavior', 'refer model', 'command feedforward control']
+  True Keyphrases: {'command feedforward control', 'quantit speed control', 'srm drive', 'track respon', 'disturb cancel control', 'two-degree-of-freedom structur', 'oper condit', 'model-follow track error', 'system paramet', 'fuzzi adapt inver model', 'nonlinear dynam behavior', 'inver plant model', 'speed dynam respon', 'regul control requir', 'fuzzi control scheme', 'control specif', 'refer model', 'switch reluct motor'}
+  Precision=0.75, Recall=0.67, F1=0.71
+
+[Doc ID=345]
+  Predicted: ['strateg inform system', 'sustain advantag', 'strateg oper', 'inform technolog', 'edelman prize', 'privat sector', 'or/m work', 'compet advantag', 'applic strateg']
+  True Keyphrases: {'strateg inform system', 'manag scienc', 'oper research', 'strateg or/m', 'si'}
+  Precision=0.11, Recall=0.20, F1=0.14
+
+
+=== 结果汇总 ===
+文档总数: 20
+平均 Precision=0.40, 平均 Recall=0.59, 平均 F1=0.45

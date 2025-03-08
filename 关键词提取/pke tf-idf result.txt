@@ -1,0 +1,130 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\yannan\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\yannan\AppData\Roaming\nltk_data...
+[nltk_data]   Unzipping tokenizers\punkt.zip.
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=2150]
+  Predicted: {'abb', 'data center', 'fast-mov', 'forc mani compani', 'fast-mov sector', 'data center market', 'center market', 'bankruptci', 'forc mani', 're-format'}
+  True Keyphrases: {'data center', 'abb', 'mission-crit facil', 'redund air condit', 'build infrastructur', 'redund power suppli', 'secur system', 'engin manag', 'commiss', 'build manag', 'project manag', 'instal'}
+  Precision=0.30, Recall=0.25, F1=0.27
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=393]
+  Predicted: {'electrocardiogram', 'distort', 'spsa method', 'distort measur', 'spsa', 'ecg analysi', '-rrb-', '-lrb-', 'ecg', 'real data'}
+  True Keyphrases: {'ecg signal compress', 'class-distortion-measur', 'distort measur', 'simultan perturb stochast approxim method', 'nonsmooth optim problem', 'correl method', 'electrodiagnost', 'random procedur', 'cluster analysi', 'ecg cycl'}
+  Precision=0.30, Recall=0.30, F1=0.30
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=315]
+  Predicted: {'nonus -rrb-', 'articl provid', 'use -lrb-', '-lrb-', 'librari', 'internet', 'nonus', 'public', 'public librari', '-rrb-'}
+  True Keyphrases: {'nation random digit dial telephon survey', 'internet', 'baselin data', 'consum model', 'longitudin research', 'american adult market', 'public librari', 'deci criteria'}
+  Precision=0.40, Recall=0.50, F1=0.44
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=2154]
+  Predicted: {'humanlik', 'robot condit', 'condit monitor tool', 'robot', 'monitor', 'mainten', 'condit monitor', 'robot condit monitor', 'sup', 'monitor tool'}
+  True Keyphrases: {'s4-famili control', 'mainten schedul', 'optimize/sup it/ robot condit monitor tool', 'condit monitor', 'semi-automat measur', 'reliability-c mainten', 'abb robot'}
+  Precision=0.90, Recall=1.29, F1=1.06
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=256]
+  Predicted: {'web-bas applic', 'right tool', 'time track', 'debug tool', 'arm', 'program practic', 'debug web applic', 'save time track', 'debug', 'debug web'}
+  True Keyphrases: {'web applic debug tool', 'program'}
+  Precision=0.30, Recall=1.50, F1=0.50
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=2186]
+  Predicted: {'zeolit synthesi', 'zeolit', 'high throughput experi', 'synthesi', 'throughput experi', 'high throughput', 'templat zeolit', 'throughput', 'relat materi', 'templat zeolit synthesi'}
+  True Keyphrases: {'chemic composit', 'structur direct agent', 'catalyt activ', 'voronoi diagram', 'figur of merit', 'phase-depend random gaussian variabl', 'organo-c templat molecul', 'a priori inform', 'high throughput strategi', 'small molecul design', 'ligand librari', 'mont carlo-lik design protocol', 'templat zeolit synthesi', 'multi-round protocol', 'catalyt select', 'combinatori method', 'random energi model', 'reflect boundari condit', 'materi function', 'materi discoveri', 'metropolis-typ method'}
+  Precision=0.70, Recall=0.33, F1=0.45
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=3]
+  Predicted: {'rais cash', 'stay power', 'cash', 'nuvox show stay', 'telecom market', 'new cash', 'nuvox', 'nuvox show', 'show stay power', 'show stay'}
+  True Keyphrases: {'investor', 'nuvox commun', 'telecom', 'competit carrier market'}
+  Precision=0.20, Recall=0.50, F1=0.29
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=2095]
+  Predicted: {'amplitud', 'system coordin', 'reaction', 'limit cycl', 'bifurc', 'unbound', 'larg amplitud', 'occur due', 'attract', 'attract set'}
+  True Keyphrases: {'ordinari differenti equat', 'enzymat reaction', 'bifurc', 'satur kinet', 'biochem system', 'metabolit concentr', 'stabl limit cycl', 'enzyme-medi reaction', 'saddl connect', 'nonlinear depend'}
+  Precision=0.30, Recall=0.30, F1=0.30
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=37]
+  Predicted: {'time-domain respons', 'frequency-domain respons', 'control', 'frequency-domain', 'sub', 'pid', 'control system', 'time-domain', 'nomin', 'pid control'}
+  True Keyphrases: {'frequency-domain respon', 'stabil margin', 'h/sub infin / pid control', 'optim control', 'rise time', 'overshoot', 'maclaurin pid control', 'reson peak', 'suboptim control', 'h/sub 2/ pid control', 'process control system', 'proportional-integr deriv control', 'nomin stabl process', 'time-domain respon'}
+  Precision=1.00, Recall=0.71, F1=0.83
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=196]
+  Predicted: {'neural network', 'new symbol', 'neural', 'grammar', '-lrb-', '-rrb-', 'new symbol set', 'symbol', 'network learn', 'symbol set'}
+  True Keyphrases: {'neural network', 'symbol knowledg', 'associationist neural network', 'associationist learn', 'cognit neurosci', 'state-spac', 'abstract rule', 'learn'}
+  Precision=0.40, Recall=0.50, F1=0.44
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=2144]
+  Predicted: {'dotcom compani', 'recent string', 'failur among dotcom', 'third parti', 'peril', 'among dotcom', 'privaci', 'failur among', 'among dotcom compani', 'privaci polici'}
+  True Keyphrases: {'privaci abu', 'privaci polici', 'disclosur', 'custom list'}
+  Precision=0.20, Recall=0.50, F1=0.29
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=268]
+  Predicted: {'conform', 'molecular conform', 'region -lrb-', 'conform space', '-lrb-', 'analyz multipl correl', 'analyz multipl', 'molecular coordin', 'molecular', '-rrb-'}
+  True Keyphrases: {'protein fold trajectori', 'molecular conform', 'region of interest', 'conform space', 'correl matrix', 'complex molecul', 'molecular coordin', 'multipl correl analysi', 'multidimens structur characterist'}
+  Precision=0.50, Recall=0.56, F1=0.53
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=306]
+  Predicted: {'measur keyboard', 'keyboard delay', 'msec', 'joystick', 'keyboard respons delay', 'keyboard', 'measur keyboard respons', 'keyboard respons', 'keyboard delay time', 'delay time'}
+  True Keyphrases: {'model chang', 'check', 'keyboard scan interv time', 'midi termin', 'psycholog experi', 'pc clock preci', 'averag keyboard delay time', 'independ time function', 'joystick input', 'sound board', 'keyboard input', 'keyboard respon delay measur', 'pc keyboard', 'statist data process'}
+  Precision=0.50, Recall=0.36, F1=0.42
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=38]
+  Predicted: {'princip document use', 'isa', 'princip document', 'wide understood', 'instrument', 'pid standard', 'pid', 'confus inform', 'long exist', 'continu problem'}
+  True Keyphrases: {'isa standard', 'princip document', 'isa-5.1', 'p&id standard', 'process control'}
+  Precision=0.30, Recall=0.60, F1=0.40
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=405]
+  Predicted: {'induct logic', 'learn spatial relat', 'logic program', 'learn spatial', 'induct logic program', 'logic program system', 'spatial relat', 'ilp', 'spatial relat use', 'spatial'}
+  True Keyphrases: {'spatial relat learn', 'induct logic program system', 'function-fr horn-clau descript', 'spatial relat'}
+  Precision=0.80, Recall=2.00, F1=1.14
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=1962]
+  Predicted: {'oscil', 'without complex', 'bagsik', '-lrb-', 'oscil without complex', 'bagsik oscil', 'without complex number', 'bagsik oscil without', '-rrb-', 'oscil without'}
+  True Keyphrases: {'determinist process', 'noncomplex number', 'statist mechan apparatu', 'game theori', 'incorrect bank data', 'bagsik oscil'}
+  Precision=0.40, Recall=0.67, F1=0.50
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=316]
+  Predicted: {'frequenc distribut', 'irregular', '-lrb-', 'lotka', 'fraction frequenc', 'fraction', 'lotka law', 'fraction frequenc distribut', '-rrb-', 'law'}
+  True Keyphrases: {'irregular fraction frequenc distribut', 'convolut model', 'dual lotka law', 'discret score'}
+  Precision=0.80, Recall=2.00, F1=1.14
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=2136]
+  Predicted: {'restrict reconstruct cost', 'best solut', 'typic problem', 'origin extrem problem', 'origin extrem', 'sequenc term', 'extrem problem', 'restrict reconstruct', 'network reconstruct', 'reconstruct'}
+  True Keyphrases: {'best solut', 'optim', 'complex', 'finit set', 'network reconstruct'}
+  Precision=0.30, Recall=0.60, F1=0.40
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=380]
+  Predicted: {'srm', 'invers model', 'control scheme', '-lrb-', 'control', 'speed control', 'fuzzi', '-rrb-', 'regul control', 'srm drive'}
+  True Keyphrases: {'switch reluct motor', 'inver plant model', 'oper condit', 'speed dynam respon', 'fuzzi control scheme', 'model-follow track error', 'track respon', 'two-degree-of-freedom structur', 'regul control requir', 'refer model', 'disturb cancel control', 'system paramet', 'control specif', 'quantit speed control', 'fuzzi adapt inver model', 'nonlinear dynam behavior', 'command feedforward control', 'srm drive'}
+  Precision=0.70, Recall=0.39, F1=0.50
+
+WARNING:root:LoadFile._df_counts is hard coded to E:\PycharmProjects\PythonTry\.venv\Lib\site-packages\pke\models\df-semeval2010.tsv.gz
+[Doc ID=345]
+  Predicted: {'strateg oper', 'sustain', 'strateg inform system', 'strateg', 'strateg oper research', 'sustain competit advantag', 'si', 'inform system -lrb-', 'ms work', 'system -lrb-'}
+  True Keyphrases: {'manag scienc', 'strateg inform system', 'si', 'strateg or/m', 'oper research'}
+  Precision=0.40, Recall=0.80, F1=0.53
+
+
+=== 结果汇总 ===
+文档总数: 20
+平均 Precision=0.48, 平均 Recall=0.73, 平均 F1=0.54
